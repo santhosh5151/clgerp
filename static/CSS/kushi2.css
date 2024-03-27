@@ -1,0 +1,244 @@
+.bg {
+    background: #036;
+    padding:10px;
+}
+.sk b {
+    color:white;
+    font-size: 24px;
+}
+.sk img {
+    border-radius:50% ;
+}
+.sk_10 button {
+    border-radius: 8%;
+    font-size: 15px;
+}
+.sk_10 {
+    padding:16px;
+    padding-bottom: 3px;
+}   
+.ks {
+    background:rgb(191, 8, 191);
+}
+
+.menu .col-md-1{
+    margin-right: 2px;
+    background-color: #fc791e;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0, rgb(255, 147, 38)), color-stop(1, rgb(217, 109, 0)));
+}
+.menu .col-md-2 {
+    margin-right: 2px;
+    background-color: #fc791e;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0, rgb(255, 147, 38)), color-stop(1, rgb(217, 109, 0)));
+}
+.ks_13 {
+    display:flex;
+    width:10%;
+    margin-left: 10px;
+}
+.ks_13 button {
+    background:transparent;
+    color:white;
+    border:0;
+    padding:5px 10px;
+}
+.ks_10 {
+    display:flex;
+    width:10%;
+}
+.ks_10 button {
+    background: transparent;
+    color:white;
+    border: 0;
+    padding: 5px 10px;
+}
+.fas{
+    float:right;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.ks_11 {
+    display:flex;
+    width:15%;
+}
+.ks_11 button {
+    background: transparent;
+    color:white;
+    border:0;
+    padding:5px 10px;
+}
+.ks_12 {
+    display:felx;
+    width:28%;
+}
+.a {
+    float:right;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+.b {
+    float:right;
+    margin-left: 0px;
+    padding-top: 3px;
+}
+.c {
+    float:right;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+.d {
+    float:right;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+.e {
+    float:right;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+.f {
+    float:right;
+    margin-left: 10px;
+    padding-top: 3px;
+}
+.ks_12 button {
+    background: transparent;
+    color:white;
+    border:0;
+    padding:5px 10px;
+}
+.dropdown-menu {
+    display:none;
+}
+.menu .col-md-4 {
+    margin-right: 8px;
+    background-color: #fc791e;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0, rgb(255, 147, 38)), color-stop(1, rgb(217, 109, 0)));
+}
+.sk_11 {
+    font-size: 16px;
+    color:rgb(71, 7, 235);
+    text-align: center;
+}
+.sk_12 {
+    font-size: 20px;
+    color:black;
+    text-align: center;
+}
+.sk_12 b{
+    font-size: 30px;
+    color:darkgreen;
+}
+.sk_13 {
+    color:darkgreen;
+    text-align: center;
+}
+.sk_14 {
+    color: blue;
+}
+.sk_15 {
+    color: blue;
+}
+.sk_16 {
+    font-size: 18px;
+    color: darkgreen;
+}
+.sk_17 {
+    color: blue;
+}
+.sk_18 {
+    color: blue;
+}
+.sk_19 {
+    color: blue;
+}
+sk_20 {
+    display:felx;
+    width: 20%;
+}
+.sk_20 button {
+    background: transparent;
+    color:white;
+    border:0;
+    padding:5px 10px;
+    margin-left: 20px;
+}
+.K .col-md-2 {
+    margin-right: 8px;
+    background-color: #fc791e;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0, rgb(255, 147, 38)), color-stop(1, rgb(217, 109, 0)));
+    border-radius: 5%;
+    margin-left: 10px;
+}
+.skr {
+    background: #036;
+}
+.skr a{
+    color:white;
+}
+.skr a:hover {
+    background: orange;
+    color:white;
+}
+.skr_10 {
+    background: #036;
+    color:white;
+}
+.skr_10  a{
+    color:#fff;
+}
+.skr_10 a:hover{
+    background:orange;
+    color:white;
+} 
+.skr_11 {
+    background: #036;
+    color:white;
+}
+.skr_11  a{
+    color:#fff;
+}
+.skr_11 a:hover{
+    background:orange;
+    color:white;
+} 
+.skr_12 {
+    background: #036;
+    color:white;
+}
+.skr_12  a{
+    color:#fff;
+}
+.skr_12 a:hover{
+    background:orange;
+    color:white;
+} 
+.skr_13 {
+    background: #036;
+    color:white;
+}
+.skr_13  a{
+    color:#fff;
+}
+.skr_13 a:hover{
+    background:orange;
+    color:white;
+} 
+.ku {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background-color:#036;
+
+}
+.ku ul li:hover {
+    background: orange;
+    color: white;
+}
+.table-bordered{
+    font-size: 10px;
+    width:55%;
+    margin-left: 8px;
+    color: red;
+}
